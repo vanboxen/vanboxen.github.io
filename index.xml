@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>blogd</title>
+        <title>blogd - blog as a service</title>
         <link>http://example.org/</link>
-        <description>blogd</description>
+        <description>blogd - blog as a service</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Apr 2021 19:42:03 &#43;0200</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
