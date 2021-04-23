@@ -8,8 +8,10 @@ Finally, Github pages to keep everything online without a lot of problems.
 
 # Synchronization
 Later I will explain how to install HUGO locally, pick a theme to use and install it. I must say that it was very simple.
-I've spend a couple of hours trying to make it run on dockers from portio
+I've spend a couple of hours trying to make it run on dockers on portainer.io but since the setup is running on a rpi it was not really possible.
+
+Ghost was working fine and I still have a live version there but I belive that HUGO is 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU1OTc4OTBdfQ==
+eyJoaXN0b3J5IjpbOTczNDEwNDddfQ==
 -->
