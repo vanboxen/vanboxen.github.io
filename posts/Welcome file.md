@@ -3,7 +3,10 @@
 This will be an easy blog where I can put whatever I'm trying to install.
 
 
-# Files
+# What are we going to use
+Mostly HUGO to create something fast and simple. 
+Stackedit to edit MD files on the fly with the github pages sync.
+Finally, Github pages to 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -142,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MDQzMV19
+eyJoaXN0b3J5IjpbOTEyMzg4OTI3XX0=
 -->
