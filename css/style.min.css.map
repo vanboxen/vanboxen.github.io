@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/VanBoxen/blogd",
+	"sourceRoot": "/Users/andres.salgado/blogd",
 	"sources": [
 		"themes/ublogger/assets/css/style.scss",
 		"themes/ublogger/assets/css/_variables.scss",
