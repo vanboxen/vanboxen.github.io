@@ -6,8 +6,9 @@ I will probably start with how did a setup HUGO for the blog which is pretty muc
 
 # Most common topics
 
-Probably rpi
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+ - rpi open source packages monitoring NAS NFS  SMB Sync the phone on
+   the NAS
+   **Big etc!**
 
 ## Create files and folders
 
@@ -144,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk4MjE3NzVdfQ==
+eyJoaXN0b3J5IjpbMTc0NjgzODA1OF19
 -->
