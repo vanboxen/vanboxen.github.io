@@ -94,11 +94,17 @@ Start building sites …
 
 |  | EN |
 |--|--|
-|  |  |
+| Pages | 10 |
+| Paginator pages | 0 |
+| Non-page files | 0 |
+| Static files  | 2 |
+| Processed images | 10 |
+| Pages | 10 |
+| Pages | 10 |
 
-                   | EN
--------------------+-----
-  Pages            | 21
+    | 
+|--------|-----------|
+  Pages            | 21|
   Paginator pages  |  0
   Non-page files   |  0
   Static files     |  2
@@ -135,6 +141,6 @@ Also, by default comes "draft = true" which means that you are creating a file t
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjMxNTk1MiwtMjEzNjgzODQxNCw2Mj
+eyJoaXN0b3J5IjpbLTY4Mjg1NDcwMSwtMjEzNjgzODQxNCw2Mj
 U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
