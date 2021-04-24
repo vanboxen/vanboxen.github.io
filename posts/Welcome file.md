@@ -85,6 +85,9 @@ Then paste the basic config lines inside the previous created file.
 
 The main difference with toml and yaml is the structure so you will get a lot of errors when you build the site with HUGO after.
 
+At this point, it's worth it to execute HUGO for the first time to see if you already have errors on your config file.
+
+
 ## First post! Getting big
 To post just execute:
 
@@ -113,6 +116,6 @@ Also, by default comes "draft = true" which means that you are creating a file t
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQyMzkzMjEsLTIxMzY4Mzg0MTQsNj
-I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
+eyJoaXN0b3J5IjpbMTMwNTc0NTQ4NSwtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
