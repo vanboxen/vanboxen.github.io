@@ -62,6 +62,10 @@ Reading the theme installation is really important and mostly all the customizat
 ## Themes
 There are a good bunch of themes on the official webpage of HUGO so feel free to use and test all of them.
 
+Basically, you have to download them to the theme folder and then point the config file to the correct theme. Finally, build again HUGO (I will explain these later). For example for the PaperMod theme 
+
+    cd my_website
+    git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
 
 # Most common topics
 
@@ -78,6 +82,6 @@ There are a good bunch of themes on the official webpage of HUGO so feel free to
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDI2MTYxNCwtMjEzNjgzODQxNCw2Mj
-U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbMjk2MDI3NTM0LC0yMTM2ODM4NDE0LDYyNT
+gwODM5NywtMTIzNTc1MjA5Nl19
 -->
