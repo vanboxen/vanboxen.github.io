@@ -79,38 +79,29 @@ There are a good bunch of themes on the official webpage of HUGO so feel free to
 
 Basically, you have to download them to the theme folder and then point the config file to the correct theme. Finally, build again HUGO (I will explain these later). For example for the PaperMod theme execute the next commands:
 
-```
-cd my_website
-git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
-```
+    cd my_website
+    git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
 
 > if you were anxious like me and you already have git running on the folder just do a "git submodule add" instead of clone on the last command.
 
 PaperMod needs a yaml file and by default, after the instalation, you have a config.toml file so save it as backup and create a new one with the info from theme itself.
 
-```
-cd my_website
-mv config.yaml config.yaml.bkp
-touch config.yaml
-```
+    cd my_website
+    mv config.yaml config.yaml.bkp
+    touch config.yaml
 
 Then paste the basic config lines inside the previous created file.
 
-```
-baseURL: "https://examplesite.com/"
-title: ExampleSite
-paginate: 5
-theme: PaperMod
-```
+    baseURL: "https://examplesite.com/"
+    title: ExampleSite
+    paginate: 5
+    theme: PaperMod
 
 The main difference with toml and yaml is the structure so you will get a lot of errors when you build the site with HUGO after.
 
 At this point, it's worth it to execute HUGO for the first time to see if you already have errors on your config file.
 
-```
-hugo # that simple!
-
-```
+    hugo # that simple!
 
 The  **public**  folder will be created too now since the command is a kind of compilation command so it creates everything needed to run your site on internet. This will throw some lines on your monitor with errors if something went wrong or with this table if everything is fine:
 
@@ -223,6 +214,6 @@ git push into Github for the config and the new post
 git push into Github Pages for the new post created
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ0MjM3NDQsLTEwOTEwMDQ1MDhdfQ
-==
+eyJoaXN0b3J5IjpbLTEyODM1Nzc1NTgsLTEwOTQ0MjM3NDQsLT
+EwOTEwMDQ1MDhdfQ==
 -->
