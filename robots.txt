@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vanboxen.github.io/sitemap.xml
