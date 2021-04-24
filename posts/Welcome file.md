@@ -21,15 +21,11 @@ hugo version
 
 Now a days is common to have git preinstalled by default. Anyway, if you need to check if the package is already there there then:
 
-```
 git --version
-```
 
 Otherwise, use your favorite package manager to install it if it's not already there. For example:
 
-```
-zypper install git
-```
+    zypper install git
 
 Hurray! We have everything that we need.
 
@@ -39,9 +35,7 @@ Now that we have everything installed is time to setup our site locally. Later o
 
 Go to whatever folder you want and create a specific one for the site.
 
-```
-cd Desktop ; hugo new site my_website
-```
+    cd Desktop ; hugo new site my_website
 
 > A new folder called my_website will be created on the Desktop
 
@@ -174,35 +168,31 @@ I did something simple to be able to post from any device so along with  **publi
 
 I've also created a  **.gitignore**  file to avoid to push the public folder of HUGO on the repository which is not needed.
 
-vi .gitignore
-
+    vi .gitignore
 
 Explicit write the name of the folder/files that you want to exclude.
+In this case:
 
-```
-public/
-```
+    public/
+
 
 Save the file and create another repository on Github.
 
-```
-cd my_website
-git init
-git add *
-git remote add origin https://github.com/username/whatever.git
-git commit -m "First push of the config files"
-git push origin master
-```
+    cd my_website
+    git init
+    git add *
+    git remote add origin https://github.com/username/whatever.git
+    git commit -m "First push of the config files"
+    git push origin master
 
 Finally, I did a small bash script to do everything for me. The procedure goes like this (without the script)
 
-```
-hugo new another-post.md
-hugo
-git push into Github for the config and the new post
-git push into Github Pages for the new post created
-```
+    hugo new another-post.md
+    hugo
+    git push into Github for the config and the new post
+    git push into Github Pages for the new post created
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDk2NzY0MiwtMTA5NDQyMzc0NCwtMT
+eyJoaXN0b3J5IjpbLTcxNjMyNjQ3NywtMTA5NDQyMzc0NCwtMT
 A5MTAwNDUwOF19
 -->
