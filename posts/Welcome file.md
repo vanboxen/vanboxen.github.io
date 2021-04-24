@@ -1,8 +1,14 @@
 # HowTO install HUGO
 
-You will need first to have brew installed on your defviceFrom linux/mac just open the terminal and install it
+## Needs
+
+You will need first to have brew installed on your device so make sure that is up and running. Then from linux/mac just open the terminal and install HUGO.
 
     brew install hugo
+
+If everything was fine just check that it with:
+
+    hugo version
 
 
 # Most common topics
@@ -20,6 +26,6 @@ You will need first to have brew installed on your defviceFrom linux/mac just op
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTM0MTYxNiw2MjU4MDgzOTcsLTEyMz
+eyJoaXN0b3J5IjpbMjA1Njk1NDE5NSw2MjU4MDgzOTcsLTEyMz
 U3NTIwOTZdfQ==
 -->
