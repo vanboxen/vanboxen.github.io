@@ -89,7 +89,7 @@ At this point, it's worth it to execute HUGO for the first time to see if you al
 
     hugo # that simple!
     
-This will throw some lines on your monitor with errors if something went wrong or with this table if everything is fine:
+The **public** folder will be created too now since the command is a kind of compilation command so it creates everything needed to run your site on internet. This will throw some lines on your monitor with errors if something went wrong or with this table if everything is fine:
 
 Start building sites …
 
@@ -131,7 +131,7 @@ On the prompt, you will see the page that you need to reach your website.
 
     http://localhost:1313
 
- 
+ ## P
 
 
 # Most common topics
@@ -149,6 +149,6 @@ On the prompt, you will see the page that you need to reach your website.
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjAyNzE2MywtMjEzNjgzODQxNCw2Mj
-U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbMzU0NTY5NTcyLC0yMTM2ODM4NDE0LDYyNT
+gwODM5NywtMTIzNTc1MjA5Nl19
 -->
