@@ -4,10 +4,6 @@
     <title>Posts on blogd</title>
     <link>https://vanboxen.github.io/posts/</link>
     <description>Recent content in Posts on blogd</description>
-    <image>
-      <url>https://vanboxen.github.io/cover.png</url>
-      <link>https://vanboxen.github.io/cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 24 Apr 2021 01:09:56 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
