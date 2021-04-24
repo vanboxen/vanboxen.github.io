@@ -30,7 +30,10 @@ Go to whatever folder you want and create a specific one for the site.
 
     cd Desktop ; hugo new site my_website
 
-> A new folder called my_website will be created inside 
+> A new folder called my_website will be created on the Desktop
+
+Then you will have a nice prompt telling you where to download themes and how to do some customization, etc.
+ 
 
 # Most common topics
 
@@ -47,6 +50,6 @@ Go to whatever folder you want and create a specific one for the site.
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODcyMDY5MTksNjI1ODA4Mzk3LC0xMj
+eyJoaXN0b3J5IjpbLTIwMjg0OTE0ODcsNjI1ODA4Mzk3LC0xMj
 M1NzUyMDk2XX0=
 -->
