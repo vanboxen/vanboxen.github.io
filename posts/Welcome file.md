@@ -176,11 +176,11 @@ Finally, I did a small bash script to do everything for me. The procedure goes l
 
     hugo new another-post.md
     hugo
-    git push into github for the config and the new post
-    git push into github Page
+    git push into Github for the config and the new post
+    git push into Github Pages for the new post created
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI4OTk5NDQsLTE2NDY0OTQ0MjAsLT
-I1MDQwNTA3NiwtMjEzNjgzODQxNCw2MjU4MDgzOTcsLTEyMzU3
-NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbMTU4NjE4NDI5LC0xNjQ2NDk0NDIwLC0yNT
+A0MDUwNzYsLTIxMzY4Mzg0MTQsNjI1ODA4Mzk3LC0xMjM1NzUy
+MDk2XX0=
 -->
