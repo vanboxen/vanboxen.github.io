@@ -98,20 +98,12 @@ Start building sites …
 | Paginator pages | 0 |
 | Non-page files | 0 |
 | Static files  | 2 |
-| Processed images | 10 |
-| Pages | 10 |
-| Pages | 10 |
+| Processed images | 0 |
+| Aliases | 3 |
+| Sitemaps | 1 |
+| Cleaned | 0 |
 
-    | 
-|--------|-----------|
-  Pages            | 21|
-  Paginator pages  |  0
-  Non-page files   |  0
-  Static files     |  2
-  Processed images |  0
-  Aliases          |  3
-  Sitemaps         |  1
-  Cleaned          |  0
+> In case of errors, google is your friend! But usually is realted with a misstypo inside the config file or something that maybe is obsolete for your version of HUGO.
 
 ## First post! Getting big
 To post just execute:
@@ -141,6 +133,6 @@ Also, by default comes "draft = true" which means that you are creating a file t
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Mjg1NDcwMSwtMjEzNjgzODQxNCw2Mj
-U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbLTEzOTIwNzYxNzAsLTIxMzY4Mzg0MTQsNj
+I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
 -->
