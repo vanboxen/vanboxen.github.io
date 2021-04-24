@@ -1,35 +1,25 @@
-# HowTO install HUGO
+Packages that we need
 
-## Must have
-
-brew 
-git
+ - [x] brew  
+ - [x] git
 
 ## Installing HUGO
 
 You will need first to have brew installed on your device so make sure that is up and running. Then from linux/mac just open the terminal and install HUGO.
 
-```
-brew install hugo
-```
+    brew install hugo
 
 If everything was fine just check it with:
 
-```
-hugo version
-```
+    hugo version
 
 Now a days is common to have git preinstalled by default. Anyway, if you need to check if the package is already there there then:
 
-```
-git --version
-```
+    git --version
 
 Otherwise, use your favorite package manager to install it if it's not already there. For example:
 
-```
-zypper install git
-```
+    zypper install git
 
 Hurray! We have everything that we need.
 
@@ -39,9 +29,7 @@ Now that we have everything installed is time to setup our site locally. Later o
 
 Go to whatever folder you want and create a specific one for the site.
 
-```
-cd Desktop ; hugo new site my_website
-```
+    cd Desktop ; hugo new site my_website
 
 > A new folder called my_website will be created on the Desktop
 
@@ -79,38 +67,29 @@ There are a good bunch of themes on the official webpage of HUGO so feel free to
 
 Basically, you have to download them to the theme folder and then point the config file to the correct theme. Finally, build again HUGO (I will explain these later). For example for the PaperMod theme execute the next commands:
 
-```
-cd my_website
-git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
-```
+    cd my_website
+    git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
 
 > if you were anxious like me and you already have git running on the folder just do a "git submodule add" instead of clone on the last command.
 
 PaperMod needs a yaml file and by default, after the instalation, you have a config.toml file so save it as backup and create a new one with the info from theme itself.
 
-```
-cd my_website
-mv config.yaml config.yaml.bkp
-touch config.yaml
-```
+    cd my_website
+    mv config.yaml config.yaml.bkp
+    touch config.yaml
 
 Then paste the basic config lines inside the previous created file.
 
-```
-baseURL: "https://examplesite.com/"
-title: ExampleSite
-paginate: 5
-theme: PaperMod
-```
+    baseURL: "https://examplesite.com/"
+    title: ExampleSite
+    paginate: 5
+    theme: PaperMod
 
 The main difference with toml and yaml is the structure so you will get a lot of errors when you build the site with HUGO after.
 
 At this point, it's worth it to execute HUGO for the first time to see if you already have errors on your config file.
 
-```
-hugo # that simple!
-
-```
+    hugo # that simple!
 
 The  **public**  folder will be created too now since the command is a kind of compilation command so it creates everything needed to run your site on internet. This will throw some lines on your monitor with errors if something went wrong or with this table if everything is fine:
 
@@ -133,10 +112,8 @@ Start building sites …
 
 To post just execute:
 
-```
-cd my_site
-hugo new content/posts/first-post.md
-```
+    cd my_site
+    hugo new content/posts/first-post.md
 
 Go to the file with your favorite text editor and you will see a couple of lines already there. This comes by default and if you want to edit them later you can place a file inside the  **archetypes**  folder with the info that you want like tags, content, etc. Really depends on how are you going to use the page.
 
@@ -144,23 +121,19 @@ Also, by default comes "draft = true" which means that you are creating a file t
 
 Execute HUGO again to avoid config issues.
 
-```
-hugo
-```
+
+    hugo
+
 
 ## Running HUGO locally
 
 We have our page configured and our first post ready to be shared. Let's test HUGO locally and see how the pages looks like.
 
-```
-hugo server
-```
+    hugo server
 
 On the prompt, you will see the page that you need to reach your website.
 
-```
-http://localhost:1313
-```
+    http://localhost:1313
 
 ## Publish your site
 
@@ -168,22 +141,18 @@ I used Github Pages to put this blog online. It's simple and I like the fact tha
 
 Execute HUGO one more time
 
-```
-hugo
-```
+    hugo
 
 > always before your are going to push changes on your website
 
 The last part is to create the repository on Github and start git on your  **public**  website folder.
 
-```
-cd my_website/public
-git init
-git add *
-git remote add origin https://github.com/username/username.github.io.git
-git commit -m "We are going live!"
-git push origin master
-```
+    cd my_website/public
+    git init
+    git add *
+    git remote add origin https://github.com/username/username.github.io.git
+    git commit -m "We are going live!"
+    git push origin master
 
 Now you can see your website on Github Pages. Enjoy!
 
@@ -193,36 +162,31 @@ I did something simple to be able to post from any device so along with  **publi
 
 I've also created a  **.gitignore**  file to avoid to push the public folder of HUGO on the repository which is not needed.
 
-```
-vi .gitignore
-```
+    vi .gitignore
 
 Explicit write the name of the folder/files that you want to exclude.
+In this case:
 
-```
-public/
-```
+    public/
+
 
 Save the file and create another repository on Github.
 
-```
-cd my_website
-git init
-git add *
-git remote add origin https://github.com/username/whatever.git
-git commit -m "First push of the config files"
-git push origin master
-```
+    cd my_website
+    git init
+    git add *
+    git remote add origin https://github.com/username/whatever.git
+    git commit -m "First push of the config files"
+    git push origin master
 
 Finally, I did a small bash script to do everything for me. The procedure goes like this (without the script)
 
-```
-hugo new another-post.md
-hugo
-git push into Github for the config and the new post
-git push into Github Pages for the new post created
-```
+    hugo new another-post.md
+    hugo
+    git push into Github for the config and the new post
+    git push into Github Pages for the new post created
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ0MjM3NDQsLTEwOTEwMDQ1MDhdfQ
-==
+eyJoaXN0b3J5IjpbLTIwODQ3ODYxODIsLTEwOTQ0MjM3NDQsLT
+EwOTEwMDQ1MDhdfQ==
 -->
