@@ -103,7 +103,7 @@ Start building sites …
 | Sitemaps | 1 |
 | Cleaned | 0 |
 
-> In case of errors, google is your friend! But usually is realted with a misstypo inside the config file or something that maybe is obsolete for your version of HUGO.
+> In case of errors, google is your friend! But usually is related with a miss-typo inside the config file or something that maybe is obsolete for your version of HUGO.
 
 ## First post! Getting big
 To post just execute:
@@ -113,7 +113,11 @@ To post just execute:
     
 Go to the file with your favorite text editor and you will see a couple of lines already there. This comes by default and if you want to edit them later you can place a file inside the **archetypes** folder with the info that you want like tags, content, etc. Really depends on how are you going to use the page.
 
-Also, by default comes "draft = true" which means that you are creating a file that is a draft and is not going to be published. Either you can remove, comment or set it to true to make the page available.
+Also, by default comes "draft = true" which means that you are creating a file that is a draft and is not going to be published. Either you can remove, comment or change it to true to make the page available.
+
+
+
+## Running HUGO locally
 
   
 
@@ -133,6 +137,6 @@ Also, by default comes "draft = true" which means that you are creating a file t
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIwNzYxNzAsLTIxMzY4Mzg0MTQsNj
-I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
+eyJoaXN0b3J5IjpbLTIxMzc2MDk1OSwtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
