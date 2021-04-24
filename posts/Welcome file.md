@@ -60,27 +60,12 @@ This is the folder structure after the installation. I put in bold the most used
 ├  **themes**  
 └──  **config.***
 
-| Folder / File | |
+| Folder / File | Purpose  |
 |--|--|
-
-
-Purpose
-
-archetypes
-
-store your md (markdown) file templates
-
-content
-
-where your static pages and posts are live
-
-themes
-
-themes installation folder
-
-config.*
-
-the config file of your site
+| archetypes | store your md (markdown) file templates |
+| content | where your static pages and posts are live |
+| themes | themes installation folder |
+| config.* | the config file of your site |
 
 The config file is the most important one and based on your theme you will have to use a *.toml file or *.yaml.
 
@@ -131,50 +116,26 @@ The  **public**  folder will be created too now since the command is a kind of c
 
 Start building sites …
 
-EN
-
-Pages
-
-10
-
-Paginator pages
-
-0
-
-Non-page files
-
-0
-
-Static files
-
-2
-
-Processed images
-
-0
-
-Aliases
-
-3
-
-Sitemaps
-
-1
-
-Cleaned
-
-0
+|  | EN |
+|--|--|
+| Pages | 10 |
+| Paginator pages | 0 |
+| Non-page files | 0 |
+| Static files  | 2 |
+| Processed images | 0 |
+| Aliases | 3 |
+| Sitemaps | 1 |
+| Cleaned | 0 |
 
 > In case of errors, google is your friend! But usually is related with a miss-typo inside the config file or something that maybe is obsolete for your version of HUGO.
 
-## [](https://github.com/vanboxen/blogd/blob/7abd52a0bcd465f4f8c91c9d3cc93cc7b2e56249/content/posts/howto-install-hugo.md#first-post-getting-big)First post! Getting big
+## First post! Getting big
 
 To post just execute:
 
 ```
 cd my_site
 hugo new content/posts/first-post.md
-
 ```
 
 Go to the file with your favorite text editor and you will see a couple of lines already there. This comes by default and if you want to edit them later you can place a file inside the  **archetypes**  folder with the info that you want like tags, content, etc. Really depends on how are you going to use the page.
@@ -185,26 +146,23 @@ Execute HUGO again to avoid config issues.
 
 ```
 hugo
-
 ```
 
-## [](https://github.com/vanboxen/blogd/blob/7abd52a0bcd465f4f8c91c9d3cc93cc7b2e56249/content/posts/howto-install-hugo.md#running-hugo-locally)Running HUGO locally
+## Running HUGO locally
 
 We have our page configured and our first post ready to be shared. Let's test HUGO locally and see how the pages looks like.
 
 ```
 hugo server
-
 ```
 
 On the prompt, you will see the page that you need to reach your website.
 
 ```
 http://localhost:1313
-
 ```
 
-## [](https://github.com/vanboxen/blogd/blob/7abd52a0bcd465f4f8c91c9d3cc93cc7b2e56249/content/posts/howto-install-hugo.md#publish-your-site)Publish your site
+## Publish your site
 
 I used Github Pages to put this blog online. It's simple and I like the fact that I can handle everything with git from different devices if needed.
 
@@ -212,7 +170,6 @@ Execute HUGO one more time
 
 ```
 hugo
-
 ```
 
 > always before your are going to push changes on your website
@@ -226,12 +183,11 @@ git add *
 git remote add origin https://github.com/username/username.github.io.git
 git commit -m "We are going live!"
 git push origin master
-
 ```
 
 Now you can see your website on Github Pages. Enjoy!
 
-## [](https://github.com/vanboxen/blogd/blob/7abd52a0bcd465f4f8c91c9d3cc93cc7b2e56249/content/posts/howto-install-hugo.md#github-pages--github-repo)Github Pages + Github repo
+## Github Pages + Github repo
 
 I did something simple to be able to post from any device so along with  **public**  folder being on Github Pages I've also configured Github on the main folder.
 
@@ -239,14 +195,12 @@ I've also created a  **.gitignore**  file to avoid to push the public folder of 
 
 ```
 vi .gitignore
-
 ```
 
 Explicit write the name of the folder/files that you want to exclude.
 
 ```
 public/
-
 ```
 
 Save the file and create another repository on Github.
@@ -270,5 +224,5 @@ git push into Github for the config and the new post
 git push into Github Pages for the new post created
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEwMDQ1MDhdfQ==
+eyJoaXN0b3J5IjpbMTQxMDkxODgwMiwtMTA5MTAwNDUwOF19
 -->
