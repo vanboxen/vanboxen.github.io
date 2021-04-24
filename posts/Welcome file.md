@@ -143,6 +143,13 @@ Execute HUGO one more time
 
 The last part is to create the repository on Github and start git on your **public** website folder.
 
+    cd my_website/public
+    git init
+    git add *
+    git remote add origin https://github.com/username/username.github.io.git
+    git commit -m "We are going live!"
+    git push origin master
+    
 
 # Most common topics
 
@@ -159,6 +166,6 @@ The last part is to create the repository on Github and start git on your **publ
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTE2NDYwMSwtMjEzNjgzODQxNCw2Mj
-U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTM3NTgxOTAsLTIxMzY4Mzg0MTQsNj
+I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
 -->
