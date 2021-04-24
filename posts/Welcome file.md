@@ -124,10 +124,8 @@ Start building sites …
 
 To post just execute:
 
-```
-cd my_site
-hugo new content/posts/first-post.md
-```
+    cd my_site
+    hugo new content/posts/first-post.md
 
 Go to the file with your favorite text editor and you will see a couple of lines already there. This comes by default and if you want to edit them later you can place a file inside the  **archetypes**  folder with the info that you want like tags, content, etc. Really depends on how are you going to use the page.
 
@@ -135,23 +133,19 @@ Also, by default comes "draft = true" which means that you are creating a file t
 
 Execute HUGO again to avoid config issues.
 
-```
-hugo
-```
+
+    hugo
+
 
 ## Running HUGO locally
 
 We have our page configured and our first post ready to be shared. Let's test HUGO locally and see how the pages looks like.
 
-```
-hugo server
-```
+    hugo server
 
 On the prompt, you will see the page that you need to reach your website.
 
-```
-http://localhost:1313
-```
+    http://localhost:1313
 
 ## Publish your site
 
@@ -159,22 +153,18 @@ I used Github Pages to put this blog online. It's simple and I like the fact tha
 
 Execute HUGO one more time
 
-```
-hugo
-```
+    hugo
 
 > always before your are going to push changes on your website
 
 The last part is to create the repository on Github and start git on your  **public**  website folder.
 
-```
-cd my_website/public
-git init
-git add *
-git remote add origin https://github.com/username/username.github.io.git
-git commit -m "We are going live!"
-git push origin master
-```
+    cd my_website/public
+    git init
+    git add *
+    git remote add origin https://github.com/username/username.github.io.git
+    git commit -m "We are going live!"
+    git push origin master
 
 Now you can see your website on Github Pages. Enjoy!
 
@@ -184,9 +174,8 @@ I did something simple to be able to post from any device so along with  **publi
 
 I've also created a  **.gitignore**  file to avoid to push the public folder of HUGO on the repository which is not needed.
 
-```
 vi .gitignore
-```
+
 
 Explicit write the name of the folder/files that you want to exclude.
 
@@ -214,6 +203,6 @@ git push into Github for the config and the new post
 git push into Github Pages for the new post created
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM1Nzc1NTgsLTEwOTQ0MjM3NDQsLT
-EwOTEwMDQ1MDhdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDk2NzY0MiwtMTA5NDQyMzc0NCwtMT
+A5MTAwNDUwOF19
 -->
