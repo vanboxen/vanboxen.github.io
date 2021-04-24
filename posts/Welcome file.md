@@ -28,7 +28,9 @@ Now that we have everything installed is time to setup our site locally. Later o
 
 Go to whatever folder you want and create a specific one for the site.
 
-    cd Desk ; mkdir my_site
+    cd Desktop ; hugo new site my_website
+
+> A new folder called my_website will be created inside 
 
 # Most common topics
 
@@ -45,6 +47,6 @@ Go to whatever folder you want and create a specific one for the site.
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NTU3NDA0LDYyNTgwODM5NywtMTIzNT
-c1MjA5Nl19
+eyJoaXN0b3J5IjpbLTE1ODcyMDY5MTksNjI1ODA4Mzk3LC0xMj
+M1NzUyMDk2XX0=
 -->
