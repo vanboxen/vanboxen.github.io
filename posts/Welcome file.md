@@ -35,7 +35,19 @@ Go to whatever folder you want and create a specific one for the site.
 Then you will have a nice prompt telling you where to download themes and how to do some customization, etc.
  
  ## Folder structure
- 
+
+my_website
+|  config.*        
+│   static   
+│   themes         
+└───archetypes
+└───content
+└───data
+└───layouts
+└───resources
+└───script
+└───static
+└───themes
 
 # Most common topics
 
@@ -52,6 +64,6 @@ Then you will have a nice prompt telling you where to download themes and how to
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY4Mzg0MTQsNjI1ODA4Mzk3LC0xMj
-M1NzUyMDk2XX0=
+eyJoaXN0b3J5IjpbMTQ2MDMzMDYwMCwtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
