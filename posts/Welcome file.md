@@ -1,36 +1,34 @@
 # HowTO install HUGO
 
-## [](https://github.com/vanboxen/blogd/blob/7abd52a0bcd465f4f8c91c9d3cc93cc7b2e56249/content/posts/howto-install-hugo.md#must-have)Must have
+## Must have
 
-brew git
+brew 
+git
 
-## [](https://github.com/vanboxen/blogd/blob/7abd52a0bcd465f4f8c91c9d3cc93cc7b2e56249/content/posts/howto-install-hugo.md#installing-hugo)Installing HUGO
+## Installing HUGO
 
 You will need first to have brew installed on your device so make sure that is up and running. Then from linux/mac just open the terminal and install HUGO.
 
 ```
 brew install hugo
-
 ```
 
 If everything was fine just check it with:
 
 ```
 hugo version
-
 ```
 
 Now a days is common to have git preinstalled by default. Anyway, if you need to check if the package is already there there then:
 
 ```
 git --version
-
 ```
 
 Otherwise, use your favorite package manager to install it if it's not already there. For example:
 
 ```
-zypper install gi
+zypper install git
 ```
 
 Hurray! We have everything that we need.
@@ -53,9 +51,18 @@ Then you will have a nice prompt telling you where to download themes and how to
 
 This is the folder structure after the installation. I put in bold the most used ones or at least the ones that we are going to use.
 
-├  **archetypes**  ├  **content**  ├ data ├ layouts ├ resources ├ static ├  **themes**  └──  **config.***
+├  **archetypes**  
+├  **content**  
+├ data 
+├ layouts 
+├ resources 
+├ static 
+├  **themes**  
+└──  **config.***
 
-Folder / File
+| Folder / File | |
+|--|--|
+
 
 Purpose
 
@@ -263,5 +270,5 @@ git push into Github for the config and the new post
 git push into Github Pages for the new post created
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjcyMjY4OTVdfQ==
+eyJoaXN0b3J5IjpbLTEwOTEwMDQ1MDhdfQ==
 -->
