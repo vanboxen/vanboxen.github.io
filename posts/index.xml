@@ -5,7 +5,17 @@
     <link>https://vanboxen.github.io/posts/</link>
     <description>Recent content in Posts on blogd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Apr 2021 00:28:09 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Apr 2021 19:36:08 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real First Post</title>
+      <link>https://vanboxen.github.io/posts/real-first-post/</link>
+      <pubDate>Sat, 24 Apr 2021 19:36:08 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/posts/real-first-post/</guid>
+      <description>First real post The idea behind this post is to keep track of whatever I&amp;rsquo;m testing at home. I will probably start with how did a setup HUGO for the blog which is pretty much straight forward to be honest.
+Most common topics  rpi open source packages monitoring NAS NFS SMB Sync the phone on the NAS Big etc!  Learning curve I really expect to have a huge learning curve just because I&amp;rsquo;ve never done such a thing and also because I&amp;rsquo;m a real &amp;ldquo;test and failure&amp;rdquo; person!</description>
+    </item>
+    
     <item>
       <title>Thirdpost</title>
       <link>https://vanboxen.github.io/posts/thirdpost/</link>
