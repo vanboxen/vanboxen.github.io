@@ -24,7 +24,11 @@ Otherwise, use your favorite package manager to install it if it's not already t
 Hurray! We have everything that we need.
 
 ## Let's first create our site locally
-Now that we have everything installed is time to setup our site locally. Later on, I will explain hho
+Now that we have everything installed is time to setup our site locally. Later on, I will explain how to move it outside your device.
+
+Go to whatever folder you want and create a specific one for the site.
+
+    cd Desk ; mkdir my_site
 
 # Most common topics
 
@@ -41,6 +45,6 @@ Now that we have everything installed is time to setup our site locally. Later o
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTk2MjE4Myw2MjU4MDgzOTcsLTEyMz
-U3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbNjE5NTU3NDA0LDYyNTgwODM5NywtMTIzNT
+c1MjA5Nl19
 -->
