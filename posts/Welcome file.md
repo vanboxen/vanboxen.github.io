@@ -127,7 +127,9 @@ Execute HUGO again to avoid config issues.
 
     hugo server
 
-On the prompt, you will see the page that you nead to reach to 
+On the prompt, you will see the page that you need to reach your website.
+
+    http://localhost:1313
 
  
 
@@ -147,6 +149,6 @@ On the prompt, you will see the page that you nead to reach to
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIwODU3MzksLTIxMzY4Mzg0MTQsNj
-I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
+eyJoaXN0b3J5IjpbLTIzMjAyNzE2MywtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
