@@ -87,6 +87,25 @@ The main difference with toml and yaml is the structure so you will get a lot of
 
 At this point, it's worth it to execute HUGO for the first time to see if you already have errors on your config file.
 
+    hugo # that simple!
+This will throw some lines on your monitor with errors if something went wrong or with this table if everything is fine:
+
+Start building sites …
+
+|  | EN |
+|--|--|
+|  |  |
+
+                   | EN
+-------------------+-----
+  Pages            | 21
+  Paginator pages  |  0
+  Non-page files   |  0
+  Static files     |  2
+  Processed images |  0
+  Aliases          |  3
+  Sitemaps         |  1
+  Cleaned          |  0
 
 ## First post! Getting big
 To post just execute:
@@ -116,6 +135,6 @@ Also, by default comes "draft = true" which means that you are creating a file t
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTc0NTQ4NSwtMjEzNjgzODQxNCw2Mj
+eyJoaXN0b3J5IjpbLTU3NjMxNTk1MiwtMjEzNjgzODQxNCw2Mj
 U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
