@@ -155,8 +155,16 @@ Now you can see your website on Github Pages. Enjoy!
 ## Github Pages + Github repo
 I did something simple to be able to post from any device so along with **public** folder being on Github Pages I've also configured Github on the main folder.
 
-I;ve also created a **.gitignore** file to avoid to push the 
+I've also created a **.gitignore** file to avoid to push the public folder of HUGO on the repository which is not needed.
+
+    vi .gitignore
+
+Explicit write the name of the folder/files that you want to exclude.
+
+    public/
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzE1ODQxNiwtMjUwNDA1MDc2LC0yMT
+eyJoaXN0b3J5IjpbMjEyNTI5MzI4MywtMjUwNDA1MDc2LC0yMT
 M2ODM4NDE0LDYyNTgwODM5NywtMTIzNTc1MjA5Nl19
 -->
