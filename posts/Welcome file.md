@@ -35,17 +35,16 @@ Go to whatever folder you want and create a specific one for the site.
 Then you will have a nice prompt telling you where to download themes and how to do some customization, etc.
  
  ## Folder structure
-
-my_website
+This is the folder structure after the installation. I put in bold the most used ones or at least the ones that we are going to use
  
-├── archetypes
-├── content
-├── data
-├── layouts
-├── resources
-├── static
-├── themes
-└── config.*
+├ **archetypes**
+├ **content**
+├ data
+├ layouts
+├ resources
+├ static
+├ **themes**
+└── **config.***
 
 # Most common topics
 
@@ -62,6 +61,6 @@ my_website
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDUwMTM5MywtMjEzNjgzODQxNCw2Mj
+eyJoaXN0b3J5IjpbMTY3MzQ0MzA1OCwtMjEzNjgzODQxNCw2Mj
 U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
