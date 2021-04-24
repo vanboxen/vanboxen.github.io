@@ -163,8 +163,15 @@ Explicit write the name of the folder/files that you want to exclude.
 
     public/
 
+Save the file and create another repository on Github.
 
+    cd my_website
+    git init
+    git add *
+    git remote add origin https://github.com/username/whatever.git
+    git commit -m "We are going live!"
+    git push origin master
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTI5MzI4MywtMjUwNDA1MDc2LC0yMT
-M2ODM4NDE0LDYyNTgwODM5NywtMTIzNTc1MjA5Nl19
+eyJoaXN0b3J5IjpbLTEyOTYyNzc4MDcsLTI1MDQwNTA3NiwtMj
+EzNjgzODQxNCw2MjU4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
