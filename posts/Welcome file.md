@@ -70,7 +70,16 @@ Basically, you have to download them to the theme folder and then point the conf
 
 > if you were anxious like me and you already have git running on the folder just do a "git submodule add" instead of clone on the last command.
 
-PaperMod needs a yaml file and by default, after the instalation, you have a config.toml file so save it as backup and 
+PaperMod needs a yaml file and by default, after the instalation, you have a config.toml file so save it as backup and create a new one with the info from theme itself. 
+
+    cd my_website
+    mv config.yaml config.yaml.bkp
+    touch config.yaml
+
+Then paste the basic config lines inside the previous created file.
+
+
+
 # Most common topics
 
 - rpi
@@ -86,6 +95,6 @@ PaperMod needs a yaml file and by default, after the instalation, you have a con
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMjc3NjA5LC0yMTM2ODM4NDE0LDYyNT
+eyJoaXN0b3J5IjpbMzYwNTE1ODcyLC0yMTM2ODM4NDE0LDYyNT
 gwODM5NywtMTIzNTc1MjA5Nl19
 -->
