@@ -172,8 +172,15 @@ Save the file and create another repository on Github.
     git commit -m "First push of the config files"
     git push origin master
 
+Finally, I did a small bash script to do everything for me. The procedure goes like this (without the script)
+
+    hugo new another-post.md
+    hugo
+    git push into github for the config and the new post
+    git push into github Page
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY0OTQ0MjAsLTI1MDQwNTA3NiwtMj
-EzNjgzODQxNCw2MjU4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjI4OTk5NDQsLTE2NDY0OTQ0MjAsLT
+I1MDQwNTA3NiwtMjEzNjgzODQxNCw2MjU4MDgzOTcsLTEyMzU3
+NTIwOTZdfQ==
 -->
