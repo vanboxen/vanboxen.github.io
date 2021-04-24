@@ -91,7 +91,11 @@ To post just execute:
     cd my_site
     hugo new content/posts/first-post.md
     
-  Go to the file with your favorite text editor and you will see a couple of lines already there. This comes by default and if you want to edit them later you can place a file inside the **archetypes** folder with the info that you want like tags, content, etc.
+Go to the file with your favorite text editor and you will see a couple of lines already there. This comes by default and if you want to edit them later you can place a file inside the **archetypes** folder with the info that you want like tags, content, etc. Really depends on how are you going to use the page.
+
+Also, by default comes "draft = true" which means that you are creating a file that is a draft and is not going to be published. Either you can remove, comment or set it to true to make the page available.
+
+  
 
 
 # Most common topics
@@ -109,6 +113,6 @@ To post just execute:
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5Nzg0MzczLC0yMTM2ODM4NDE0LDYyNT
-gwODM5NywtMTIzNTc1MjA5Nl19
+eyJoaXN0b3J5IjpbLTE0MjQyMzkzMjEsLTIxMzY4Mzg0MTQsNj
+I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
 -->
