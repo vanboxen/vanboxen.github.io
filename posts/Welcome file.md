@@ -153,8 +153,10 @@ The last part is to create the repository on Github and start git on your **publ
 Now you can see your website on Github Pages. Enjoy!
 
 ## Github Pages + Github repo
-I did something simple to be able to post from any device so along with **public** folder being on Gi
+I did something simple to be able to post from any device so along with **public** folder being on Github Pages I've also configured Github on the main folder.
+
+I;ve also created a **.gitignore** file to avoid to push the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTMzNTUyMCwtMjUwNDA1MDc2LC0yMT
+eyJoaXN0b3J5IjpbLTQzMzE1ODQxNiwtMjUwNDA1MDc2LC0yMT
 M2ODM4NDE0LDYyNTgwODM5NywtMTIzNTc1MjA5Nl19
 -->
