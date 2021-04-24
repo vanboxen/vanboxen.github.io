@@ -37,17 +37,17 @@ Then you will have a nice prompt telling you where to download themes and how to
  ## Folder structure
 
 my_website
-|  config.*        
-│   static   
-│   themes         
-└───archetypes
-└───content
-└───data
-└───layouts
-└───resources
-└───script
-└───static
-└───themes
+ 
+         
+└ static   
+└ themes         
+└ archetypes
+└ content
+└ data
+ └ layouts
+ └ resources
+ └ static
+ └ themes
 
 # Most common topics
 
@@ -64,6 +64,6 @@ my_website
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDMzMDYwMCwtMjEzNjgzODQxNCw2Mj
+eyJoaXN0b3J5IjpbMjA4NTYyMDgzNywtMjEzNjgzODQxNCw2Mj
 U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
