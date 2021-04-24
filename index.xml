@@ -5,31 +5,13 @@
     <link>https://vanboxen.github.io/</link>
     <description>Recent content on blogd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Apr 2021 01:09:56 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Second Post</title>
-      <link>https://vanboxen.github.io/posts/my-second-post/</link>
-      <pubDate>Sat, 24 Apr 2021 01:09:56 +0200</pubDate>
-      
-      <guid>https://vanboxen.github.io/posts/my-second-post/</guid>
-      <description>test</description>
-    </item>
-    
+    <lastBuildDate>Sat, 24 Apr 2021 00:28:09 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thirdpost</title>
       <link>https://vanboxen.github.io/posts/thirdpost/</link>
       <pubDate>Sat, 24 Apr 2021 00:28:09 +0200</pubDate>
       
       <guid>https://vanboxen.github.io/posts/thirdpost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://vanboxen.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 23 Apr 2021 19:42:03 +0200</pubDate>
-      
-      <guid>https://vanboxen.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
