@@ -60,7 +60,9 @@ Reading the theme installation is really important and mostly all the customizat
 > Later another folder will be created called "public" where the webpage code resides and the one that is pushed into the hosting sites.
 
 ## Themes
-There are a good bunch of themes on the 
+There are a good bunch of themes on the official webpage of HUGO so feel free to use and test all of them.
+
+
 # Most common topics
 
 - rpi
@@ -76,6 +78,6 @@ There are a good bunch of themes on the
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDQ0MjQ0OSwtMjEzNjgzODQxNCw2Mj
+eyJoaXN0b3J5IjpbMTI2NDI2MTYxNCwtMjEzNjgzODQxNCw2Mj
 U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
