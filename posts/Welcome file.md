@@ -13,11 +13,16 @@ If everything was fine just check it with:
 
     hugo version
 
-Now, you just need git on your device. Use your favorite package manager to install it if it's not already there.
+Now a days is common to have git preinstalled by default. Anyway, if you need to check if the package is already there there then:
+
+    git --version
+
+Otherwise, use your favorite package manager to install it if it's not already there. For example:
 
     zypper install git
 
-Now a days is common to have it preinstalled by default. 
+Hurray! We have 
+
 # Most common topics
 
 - rpi
@@ -33,6 +38,6 @@ Now a days is common to have it preinstalled by default.
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NzM2ODA3LDYyNTgwODM5NywtMTIzNT
-c1MjA5Nl19
+eyJoaXN0b3J5IjpbLTI4OTY3NDk3Nyw2MjU4MDgzOTcsLTEyMz
+U3NTIwOTZdfQ==
 -->
