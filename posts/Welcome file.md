@@ -57,7 +57,10 @@ The config file is the most important one and based on your theme you will have 
 
 Reading the theme installation is really important and mostly all the customization that you can perform can we found there.
 
+> Later another folder will be created called "public" where the webpage code resides and the one that is pushed into the hosting sites.
 
+## Themes
+There are a good bunch of themes on the 
 # Most common topics
 
 - rpi
@@ -73,6 +76,6 @@ Reading the theme installation is really important and mostly all the customizat
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzM1ODIwLC0yMTM2ODM4NDE0LDYyNT
-gwODM5NywtMTIzNTc1MjA5Nl19
+eyJoaXN0b3J5IjpbMTEwNDQ0MjQ0OSwtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
