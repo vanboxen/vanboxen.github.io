@@ -4,8 +4,9 @@ The idea behind this post is to keep track of whatever I'm testing at home.
 I will probably start with how did a setup HUGO for the blog which is pretty much straight forward to be honest.
 
 
-# Files
+# Most common topics
 
+Probably rpi
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -143,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTY3OTU1Ml19
+eyJoaXN0b3J5IjpbLTE2Mjk4MjE3NzVdfQ==
 -->
