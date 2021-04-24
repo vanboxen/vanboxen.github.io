@@ -38,16 +38,14 @@ Then you will have a nice prompt telling you where to download themes and how to
 
 my_website
  
- | config.*         
-└ static   
-└ themes         
-└ archetypes
-└ content
-└ data
- └ layouts
- └ resources
- └ static
- └ themes
+├── archetypes
+├── content
+├── data
+├── layouts
+├── resources
+├── static
+├── themes
+└── config.*
 
 # Most common topics
 
@@ -64,6 +62,6 @@ my_website
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI5NjAxMTMsLTIxMzY4Mzg0MTQsNj
-I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
+eyJoaXN0b3J5IjpbMTE2NDUwMTM5MywtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
