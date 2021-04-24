@@ -35,7 +35,7 @@ Go to whatever folder you want and create a specific one for the site.
 Then you will have a nice prompt telling you where to download themes and how to do some customization, etc.
  
  ## Folder structure
-This is the folder structure after the installation. I put in bold the most used ones or at least the ones that we are going to use
+This is the folder structure after the installation. I put in bold the most used ones or at least the ones that we are going to use.
  
 ├ **archetypes**
 ├ **content**
@@ -45,6 +45,15 @@ This is the folder structure after the installation. I put in bold the most used
 ├ static
 ├ **themes**
 └── **config.***
+
+| Folder / File | Purpose  |
+|--|--|
+| archetypes | store your md (markdown) file templates |
+| archetypes | store your md (markdown) file templates |
+| archetypes | store your md (markdown) file templates |
+| archetypes | store your md (markdown) file templates |
+archetypes - here you can store your md (markdown) file templates
+content		- 
 
 # Most common topics
 
@@ -61,6 +70,6 @@ This is the folder structure after the installation. I put in bold the most used
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzQ0MzA1OCwtMjEzNjgzODQxNCw2Mj
-U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbNDczNDMyMzY1LC0yMTM2ODM4NDE0LDYyNT
+gwODM5NywtMTIzNTc1MjA5Nl19
 -->
