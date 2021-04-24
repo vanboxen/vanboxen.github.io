@@ -5,7 +5,19 @@
     <link>https://vanboxen.github.io/</link>
     <description>Recent content on blogd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Apr 2021 19:36:08 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Apr 2021 23:26:16 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install Hugo</title>
+      <link>https://vanboxen.github.io/posts/how-to-install-hugo/</link>
+      <pubDate>Sat, 24 Apr 2021 23:26:16 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/posts/how-to-install-hugo/</guid>
+      <description>HowTO install HUGO Must have brew git
+Installing HUGO You will need first to have brew installed on your device so make sure that is up and running. Then from linux/mac just open the terminal and install HUGO.
+brew install hugo If everything was fine just check it with:
+hugo version Now a days is common to have git preinstalled by default. Anyway, if you need to check if the package is already there there then:</description>
+    </item>
+    
     <item>
       <title>Real First Post</title>
       <link>https://vanboxen.github.io/posts/real-first-post/</link>
