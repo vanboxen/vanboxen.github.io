@@ -1,6 +1,7 @@
 # First real post
 
 The idea behind this post is to keep track of whatever I'm testing at home. 
+It could help someone else in the future :)
 
 
 # Files
@@ -142,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4NTQyNDEwXX0=
+eyJoaXN0b3J5IjpbNDYyOTYzNzI4XX0=
 -->
