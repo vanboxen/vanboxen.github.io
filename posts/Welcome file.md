@@ -88,6 +88,7 @@ The main difference with toml and yaml is the structure so you will get a lot of
 At this point, it's worth it to execute HUGO for the first time to see if you already have errors on your config file.
 
     hugo # that simple!
+    
 This will throw some lines on your monitor with errors if something went wrong or with this table if everything is fine:
 
 Start building sites …
@@ -115,11 +116,20 @@ Go to the file with your favorite text editor and you will see a couple of lines
 
 Also, by default comes "draft = true" which means that you are creating a file that is a draft and is not going to be published. Either you can remove, comment or change it to true to make the page available.
 
+Execute HUGO again to avoid config issues.
+
+    hugo
 
 
 ## Running HUGO locally
 
-  
+ We have our page configured and our first post ready to be shared. Let's test HUGO locally and see how the pages looks like.
+
+    hugo server
+
+On the prompt, you will see the page that you nead to reach to 
+
+ 
 
 
 # Most common topics
@@ -137,6 +147,6 @@ Also, by default comes "draft = true" which means that you are creating a file t
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc2MDk1OSwtMjEzNjgzODQxNCw2Mj
-U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NzIwODU3MzksLTIxMzY4Mzg0MTQsNj
+I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
 -->
