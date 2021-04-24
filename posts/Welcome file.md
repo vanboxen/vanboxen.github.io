@@ -131,8 +131,15 @@ On the prompt, you will see the page that you need to reach your website.
 
     http://localhost:1313
 
- ## P
+ ## Publish your site
+ 
+I used Github Pages to put this blog online. It's simple and I like the fact that I can handle everything with git from different devices if needed.
+ 
+Execute HUGO one more time
 
+    hugo
+
+> always before your a
 
 # Most common topics
 
@@ -149,6 +156,6 @@ On the prompt, you will see the page that you need to reach your website.
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0NTY5NTcyLC0yMTM2ODM4NDE0LDYyNT
+eyJoaXN0b3J5IjpbNTM3ODg5ODM4LC0yMTM2ODM4NDE0LDYyNT
 gwODM5NywtMTIzNTc1MjA5Nl19
 -->
