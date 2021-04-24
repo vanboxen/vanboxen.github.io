@@ -139,7 +139,10 @@ Execute HUGO one more time
 
     hugo
 
-> always before your a
+> always before your are going to push changes on your website
+
+The last part is to create the repository on Github and start git on your **public** website folder.
+
 
 # Most common topics
 
@@ -156,6 +159,6 @@ Execute HUGO one more time
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3ODg5ODM4LC0yMTM2ODM4NDE0LDYyNT
-gwODM5NywtMTIzNTc1MjA5Nl19
+eyJoaXN0b3J5IjpbLTUxNTE2NDYwMSwtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
