@@ -49,12 +49,11 @@ This is the folder structure after the installation. I put in bold the most used
 | Folder / File | Purpose  |
 |--|--|
 | archetypes | store your md (markdown) file templates |
-| archetypes | store your md (markdown) file templates |
-| archetypes | store your md (markdown) file templates |
-| archetypes | store your md (markdown) file templates |
-archetypes - here you can store your md (markdown) file templates
-content		- 
+| content | where your static pages and posts are live |
+| themes | themes installation folder |
+| config.* | the config file of your site |
 
+The config file is the most important one and based on your theme you will have to use a *.toml file or *
 # Most common topics
 
 - rpi
@@ -70,6 +69,6 @@ content		-
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNDMyMzY1LC0yMTM2ODM4NDE0LDYyNT
-gwODM5NywtMTIzNTc1MjA5Nl19
+eyJoaXN0b3J5IjpbMjAxNzE3NDk2MSwtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
