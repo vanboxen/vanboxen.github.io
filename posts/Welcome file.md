@@ -78,6 +78,15 @@ PaperMod needs a yaml file and by default, after the instalation, you have a con
 
 Then paste the basic config lines inside the previous created file.
 
+    baseURL: "https://examplesite.com/"
+    title: ExampleSite
+    paginate: 5
+    theme: PaperMod
+
+The main difference with toml and yaml is the structure so you will get a lot of errors when you build the site with HUGO after.
+
+
+    
 
 
 # Most common topics
@@ -95,6 +104,6 @@ Then paste the basic config lines inside the previous created file.
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNTE1ODcyLC0yMTM2ODM4NDE0LDYyNT
+eyJoaXN0b3J5IjpbNzM2NDk2MzE0LC0yMTM2ODM4NDE0LDYyNT
 gwODM5NywtMTIzNTc1MjA5Nl19
 -->
