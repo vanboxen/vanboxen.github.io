@@ -149,23 +149,9 @@ The last part is to create the repository on Github and start git on your **publ
     git remote add origin https://github.com/username/username.github.io.git
     git commit -m "We are going live!"
     git push origin master
-    
 
-# Most common topics
-
-- rpi
-- open source packages
-- monitoring
-- NAS
-- NFS 
-- SMB
-- Sync the phone on the NAS
-- **Big etc!**
-
-## Learning curve
-
-I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
+Now you can see your website on Github Pages. Enjoy!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM3NTgxOTAsLTIxMzY4Mzg0MTQsNj
-I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
+eyJoaXN0b3J5IjpbLTI1MDQwNTA3NiwtMjEzNjgzODQxNCw2Mj
+U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
