@@ -1,11 +1,24 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://vanboxen.github.io/</loc><lastmod>2021-04-24T01:09:56&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://vanboxen.github.io/my-second-post/</loc><lastmod>2021-04-24T01:09:56&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://vanboxen.github.io/posts/</loc><lastmod>2021-04-24T01:09:56&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://vanboxen.github.io/thirdpost/</loc><lastmod>2021-04-24T00:28:09&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://vanboxen.github.io/my-first-post/</loc><lastmod>2021-04-23T19:42:03&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://vanboxen.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://vanboxen.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vanboxen.github.io/</loc>
+    <lastmod>2021-04-24T01:09:56+02:00</lastmod>
+  </url><url>
+    <loc>https://vanboxen.github.io/posts/my-second-post/</loc>
+    <lastmod>2021-04-24T01:09:56+02:00</lastmod>
+  </url><url>
+    <loc>https://vanboxen.github.io/posts/</loc>
+    <lastmod>2021-04-24T01:09:56+02:00</lastmod>
+  </url><url>
+    <loc>https://vanboxen.github.io/posts/thirdpost/</loc>
+    <lastmod>2021-04-24T00:28:09+02:00</lastmod>
+  </url><url>
+    <loc>https://vanboxen.github.io/posts/my-first-post/</loc>
+    <lastmod>2021-04-23T19:42:03+02:00</lastmod>
+  </url><url>
+    <loc>https://vanboxen.github.io/categories/</loc>
+  </url><url>
+    <loc>https://vanboxen.github.io/tags/</loc>
+  </url>
+</urlset>

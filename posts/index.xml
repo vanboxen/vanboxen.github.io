@@ -1,28 +1,38 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - blogd - blog as a service</title>
-        <link>https://vanboxen.github.io/posts/</link>
-        <description>All Posts | blogd - blog as a service</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 24 Apr 2021 01:09:56 &#43;0200</lastBuildDate><atom:link href="https://vanboxen.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>My Second Post</title>
-    <link>https://vanboxen.github.io/my-second-post/</link>
-    <pubDate>Sat, 24 Apr 2021 01:09:56 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://vanboxen.github.io/my-second-post/</guid>
-    <description><![CDATA[test]]></description>
-</item><item>
-    <title>Thirdpost</title>
-    <link>https://vanboxen.github.io/thirdpost/</link>
-    <pubDate>Sat, 24 Apr 2021 00:28:09 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://vanboxen.github.io/thirdpost/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>My First Post</title>
-    <link>https://vanboxen.github.io/my-first-post/</link>
-    <pubDate>Fri, 23 Apr 2021 19:42:03 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://vanboxen.github.io/my-first-post/</guid>
-    <description><![CDATA[]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on blogd - blog as a service</title>
+    <link>https://vanboxen.github.io/posts/</link>
+    <description>Recent content in Posts on blogd - blog as a service</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 01:09:56 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://vanboxen.github.io/posts/my-second-post/</link>
+      <pubDate>Sat, 24 Apr 2021 01:09:56 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/posts/my-second-post/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Thirdpost</title>
+      <link>https://vanboxen.github.io/posts/thirdpost/</link>
+      <pubDate>Sat, 24 Apr 2021 00:28:09 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/posts/thirdpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://vanboxen.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 23 Apr 2021 19:42:03 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
