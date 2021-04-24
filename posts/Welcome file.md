@@ -6,13 +6,18 @@ I will probably start with how did a setup HUGO for the blog which is pretty muc
 
 # Most common topics
 
- - rpi open source packages monitoring NAS NFS  SMB Sync the phone on
-   the NAS
-   **Big etc!**
+- rpi
+- open source packages
+- monitoring
+- NAS
+- NFS 
+- SMB
+- Sync the phone on the NAS
+- **Big etc!**
 
-## Create files and folders
+## Learning curve
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+I really expect to have a huge learning curve just because I've never done such a thing and 
 
 ## Switch to another file
 
@@ -145,5 +150,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjgzODA1OF19
+eyJoaXN0b3J5IjpbMTg0NTA2NTQ1OV19
 -->
