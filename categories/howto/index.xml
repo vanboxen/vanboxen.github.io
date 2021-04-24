@@ -15,7 +15,7 @@
       <description>Packages that we need
  brew git  Installing HUGO You will need first to have brew installed on your device so make sure that is up and running. Then from linux/mac just open the terminal and install HUGO.
 brew install hugo  If everything was fine just check it with:
-hugo version  Now a days is common to have git preinstalled by default. Anyway, if you need to check if the package is already there there then:</description>
+hugo version  Now a days is common to have git preinstalled by default. Anyway, if you need to check if the package is already there then:</description>
     </item>
     
   </channel>
