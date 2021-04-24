@@ -1,7 +1,7 @@
 # First real post
 
-The idea behind this post is to keep track of whatever I'm testing at home. 
-It could help someone else in the future :)
+The idea behind this post is to keep track of whatever I'm testing at home.
+I will probably start with how did a setup HUGO for the blog which is pretty much straight forward to be honest.
 
 
 # Files
@@ -143,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyOTYzNzI4XX0=
+eyJoaXN0b3J5IjpbMTAyOTY3OTU1Ml19
 -->
