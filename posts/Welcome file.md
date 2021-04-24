@@ -212,7 +212,6 @@ git add *
 git remote add origin https://github.com/username/whatever.git
 git commit -m "First push of the config files"
 git push origin master
-
 ```
 
 Finally, I did a small bash script to do everything for me. The procedure goes like this (without the script)
@@ -224,5 +223,6 @@ git push into Github for the config and the new post
 git push into Github Pages for the new post created
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDkxODgwMiwtMTA5MTAwNDUwOF19
+eyJoaXN0b3J5IjpbLTEwOTQ0MjM3NDQsLTEwOTEwMDQ1MDhdfQ
+==
 -->
