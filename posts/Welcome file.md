@@ -148,7 +148,7 @@ The last part is to create the repository on Github and start git on your **publ
     git add *
     git remote add origin https://github.com/username/username.github.io.git
     git commit -m "We are going live!"
-    git push origin master
+    git push origin main
 
 Now you can see your website on Github Pages. Enjoy!
 
@@ -169,9 +169,11 @@ Save the file and create another repository on Github.
     git init
     git add *
     git remote add origin https://github.com/username/whatever.git
-    git commit -m "We are going live!"
+    git commit -m "First push of the config files"
     git push origin master
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYyNzc4MDcsLTI1MDQwNTA3NiwtMj
+eyJoaXN0b3J5IjpbLTE2NDY0OTQ0MjAsLTI1MDQwNTA3NiwtMj
 EzNjgzODQxNCw2MjU4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
 -->
