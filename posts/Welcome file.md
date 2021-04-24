@@ -88,8 +88,10 @@ The main difference with toml and yaml is the structure so you will get a lot of
 ## First post! Getting big
 To post just execute:
 
+    cd my_site
     hugo new content/posts/first-post.md
     
+  Go to the file with your favorite text editor and you will see a couple of lines already there. This comes by default and if you want to edit them later you can place a file inside the **archetypes** folder with the info that you want like tags, content, etc.
 
 
 # Most common topics
@@ -107,6 +109,6 @@ To post just execute:
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU1OTgzMjQsLTIxMzY4Mzg0MTQsNj
-I1ODA4Mzk3LC0xMjM1NzUyMDk2XX0=
+eyJoaXN0b3J5IjpbNjQ5Nzg0MzczLC0yMTM2ODM4NDE0LDYyNT
+gwODM5NywtMTIzNTc1MjA5Nl19
 -->
