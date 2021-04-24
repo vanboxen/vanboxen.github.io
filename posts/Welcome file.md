@@ -68,8 +68,9 @@ Basically, you have to download them to the theme folder and then point the conf
     git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
  
 
-> if you were anxious like me and you already have git running into the folder just do a "git submodule add" instead of clone on the last command.
+> if you were anxious like me and you already have git running on the folder just do a "git submodule add" instead of clone on the last command.
 
+PaperMod needs a yaml file and by default, after the instalation, you have a config.toml file so save it as backup and 
 # Most common topics
 
 - rpi
@@ -85,6 +86,6 @@ Basically, you have to download them to the theme folder and then point the conf
 
 I really expect to have a huge learning curve just because I've never done such a thing and also because I'm a real "test and failure" person!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTg4MDQ1NCwtMjEzNjgzODQxNCw2Mj
-U4MDgzOTcsLTEyMzU3NTIwOTZdfQ==
+eyJoaXN0b3J5IjpbNTMzMjc3NjA5LC0yMTM2ODM4NDE0LDYyNT
+gwODM5NywtMTIzNTc1MjA5Nl19
 -->
