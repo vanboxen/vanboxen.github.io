@@ -1,27 +1,21 @@
-# HowTO install HUGO
+Packages that we need
 
-## Must have
-
-brew 
-git
+ - [x] brew  
+ - [x] git
 
 ## Installing HUGO
 
 You will need first to have brew installed on your device so make sure that is up and running. Then from linux/mac just open the terminal and install HUGO.
 
-```
-brew install hugo
-```
+    brew install hugo
 
 If everything was fine just check it with:
 
-```
-hugo version
-```
+    hugo version
 
 Now a days is common to have git preinstalled by default. Anyway, if you need to check if the package is already there there then:
 
-git --version
+    git --version
 
 Otherwise, use your favorite package manager to install it if it's not already there. For example:
 
@@ -193,6 +187,6 @@ Finally, I did a small bash script to do everything for me. The procedure goes l
     git push into Github Pages for the new post created
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjMyNjQ3NywtMTA5NDQyMzc0NCwtMT
-A5MTAwNDUwOF19
+eyJoaXN0b3J5IjpbLTIwODQ3ODYxODIsLTEwOTQ0MjM3NDQsLT
+EwOTEwMDQ1MDhdfQ==
 -->
