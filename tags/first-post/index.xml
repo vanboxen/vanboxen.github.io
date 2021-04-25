@@ -12,9 +12,10 @@
       <pubDate>Sat, 24 Apr 2021 19:36:08 +0200</pubDate>
       
       <guid>https://vanboxen.github.io/posts/real-first-post/</guid>
-      <description>First real post Welcome to blogd - blog as a service!
+      <description>Welcome!
 The idea behind this blog is to keep track of whatever I&amp;rsquo;m testing at home. I will probably start with how did the setup of HUGO for the blog which is pretty much straight forward to be honest.
-Learning curve I really expect to have a huge learning curve just because I&amp;rsquo;ve never done such a thing and also because I&amp;rsquo;m a real &amp;ldquo;test and failure&amp;rdquo; person!</description>
+Learning curve I really expect to have a huge learning curve just because I&amp;rsquo;ve never done such a thing and also because I&amp;rsquo;m a real &amp;ldquo;test and failure&amp;rdquo; person!
+Most common topics  rpi open source packages monitoring NAS NFS SMB Sync the phone on the NAS Big etc!</description>
     </item>
     
   </channel>
