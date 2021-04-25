@@ -5,7 +5,18 @@
     <link>https://vanboxen.github.io/posts/</link>
     <description>Recent content in Posts on blogd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Apr 2021 23:59:32 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 21:25:48 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HowTO Install Netdata</title>
+      <link>https://vanboxen.github.io/posts/howto-install-netdata/</link>
+      <pubDate>Sun, 25 Apr 2021 21:25:48 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/posts/howto-install-netdata/</guid>
+      <description>Let&amp;rsquo;s talk about Netdata.
+Netdata is a daemon which runs on your device(s) collecting data in real time. It has a very nice interface and it&amp;rsquo;s possible to see your devices from anywhere with Netdata Cloud (once you add your nodes into it).
+For monitoring there are a lot of tools which are great like Nagios, Icinga, Prometheus, etc but this one is really easy to install and use from home without doing a lot of stuff.</description>
+    </item>
+    
     <item>
       <title>HowTO Install HUGO</title>
       <link>https://vanboxen.github.io/posts/howto-install-hugo/</link>

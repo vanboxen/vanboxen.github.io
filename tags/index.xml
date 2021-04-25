@@ -5,18 +5,36 @@
     <link>https://vanboxen.github.io/tags/</link>
     <description>Recent content in Tags on blogd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Apr 2021 23:59:32 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 21:25:48 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>howto</title>
+      <title>HowTO</title>
       <link>https://vanboxen.github.io/tags/howto/</link>
-      <pubDate>Sat, 24 Apr 2021 23:59:32 +0200</pubDate>
+      <pubDate>Sun, 25 Apr 2021 21:25:48 +0200</pubDate>
       
       <guid>https://vanboxen.github.io/tags/howto/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
+      <title>monitoring</title>
+      <link>https://vanboxen.github.io/tags/monitoring/</link>
+      <pubDate>Sun, 25 Apr 2021 21:25:48 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netdata</title>
+      <link>https://vanboxen.github.io/tags/netdata/</link>
+      <pubDate>Sun, 25 Apr 2021 21:25:48 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/tags/netdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HUGO</title>
       <link>https://vanboxen.github.io/tags/hugo/</link>
       <pubDate>Sat, 24 Apr 2021 23:59:32 +0200</pubDate>
       
