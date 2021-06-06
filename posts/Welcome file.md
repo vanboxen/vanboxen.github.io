@@ -14,7 +14,6 @@ The installation process is super simple, you just need to install the packet on
 -   Opening and using a terminal window —  **Terminal**
 
 # HowTO install Cockpit
-
 I'm not really going to stop here because it's as simple as doing the installation of the package so use your favorite package manager and do it.
 
 For example:
@@ -28,7 +27,9 @@ Browse to:
 https://<system-name-or-IP>:9090
 ```
 
-The access with a valid account on that device.
+You will get a prompt to insert user pass so use one of the accounts running on that device (better a admin account so see all options).
+
+
 
 ## Create files and folders
 
@@ -165,6 +166,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI4Mjg0NTMsNTIxOTg4NjUxLDEwMj
+eyJoaXN0b3J5IjpbLTE0MDE0NjI4NzgsNTIxOTg4NjUxLDEwMj
 UxOTM0ODUsMTcwNjMzMzk5MF19
 -->
