@@ -17,12 +17,18 @@ The installation process is super simple, you just need to install the packet on
 
 I'm not really going to stop here because it's as simple as doing the installation of the package so use your favorite package manager and do it.
 
-For example
+For example:
 ``` 
 zypper in cockpit
 ```
 
 ## Access Cockpit web interface
+Browse to:
+```
+https://<system-name-or-IP>:9090
+```
+
+The access with a valid account on that device.
 
 ## Create files and folders
 
@@ -159,6 +165,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxOTg4NjUxLDEwMjUxOTM0ODUsMTcwNj
-MzMzk5MF19
+eyJoaXN0b3J5IjpbLTE4MjI4Mjg0NTMsNTIxOTg4NjUxLDEwMj
+UxOTM0ODUsMTcwNjMzMzk5MF19
 -->
