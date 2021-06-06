@@ -2,6 +2,8 @@ Cockpit is a web based interface that let you manage and monitor  different devi
 
 The installation process is super simple, you just need to install the packet on each device and then you can access with any account that you have.
 
+After that, you will have a dashboard with all of them (you can configure  ssh key so you don't need to 
+
 # HowTO install Cockpit
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -141,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNjA4OTY4LDE3MDYzMzM5OTBdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjk4ODMzMDUsMTcwNjMzMzk5MF19
 -->
