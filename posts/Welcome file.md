@@ -2,7 +2,9 @@ Cockpit is a web based interface that let you manage and monitor  different devi
 
 The installation process is super simple, you just need to install the packet on each device and then you can access with any account that you have.
 
-After that, you will have a dashboard with all of them (you can configure  ssh key so you don't need to write the password each time) . From there, you can control updates, 
+After that, you will have a dashboard with all of them (you can configure  ssh key so you don't need to write the password each time) . From there, you can even have the terminal on the web interface where you can run whatever you want the same as if you were directly connected over ssh.
+
+
 
 # HowTO install Cockpit
 
@@ -143,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzI0NTcyNSwxNzA2MzMzOTkwXX0=
+eyJoaXN0b3J5IjpbMTAyNTE5MzQ4NSwxNzA2MzMzOTkwXX0=
 -->
