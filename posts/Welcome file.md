@@ -29,7 +29,7 @@ https://<system-name-or-IP>:9090
 
 You will get a prompt to insert user pass so use one of the accounts running on that device better a admin account so see all options. In any case, on top of the browser you will have the option to grant you admin rights inserting the password for root.
 
-The interface is
+The interface is really intuitive and it exactly grants you access to what it says, logs, packages, even virtual machines are now handy!
 
 
 
@@ -168,6 +168,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODI2MTYxLC0xNDAxNDYyODc4LDUyMT
-k4ODY1MSwxMDI1MTkzNDg1LDE3MDYzMzM5OTBdfQ==
+eyJoaXN0b3J5IjpbMTg1NDY5OTU2NywtMTQwMTQ2Mjg3OCw1Mj
+E5ODg2NTEsMTAyNTE5MzQ4NSwxNzA2MzMzOTkwXX0=
 -->
