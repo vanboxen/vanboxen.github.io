@@ -14,6 +14,7 @@ The installation process is super simple, you just need to install the packet on
 -   Opening and using a terminal window —  **Terminal**
 
 # HowTO install Cockpit
+
 I'm not really going to stop here because it's as simple as doing the installation of the package so use your favorite package manager and do it.
 
 For example:
@@ -22,6 +23,7 @@ zypper in cockpit
 ```
 
 ## Access Cockpit web interface
+
 Browse to:
 ```
 https://<system-name-or-IP>:9090
@@ -168,6 +170,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDY5OTU2NywtMTQwMTQ2Mjg3OCw1Mj
-E5ODg2NTEsMTAyNTE5MzQ4NSwxNzA2MzMzOTkwXX0=
+eyJoaXN0b3J5IjpbODc4Nzc2NzE1LC0xNDAxNDYyODc4LDUyMT
+k4ODY1MSwxMDI1MTkzNDg1LDE3MDYzMzM5OTBdfQ==
 -->
