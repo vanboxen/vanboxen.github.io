@@ -2,9 +2,16 @@ Cockpit is a web based interface that let you manage and monitor  different devi
 
 The installation process is super simple, you just need to install the packet on each device and then you can access with any account that you have.
 
-After that, you will have a dashboard with all of them (you can configure  ssh key so you don't need to write the password each time) . From there, you can even have the terminal on the web interface where you can run whatever you want the same as if you were directly connected over ssh.
-
-
+#### Main features
+-   Monitoring system activity (CPU, memory, disk IO and network traffics) —  **System**
+-   Viewing system log entries —  **Logs**
+-   Seeing how full your disk partitions are —  **Storage**
+-   Watching networking activity (sent and received) —  **Networking**
+-   Taking a look at user accounts —  **Accounts**
+-   Checking the status of system services —  **Services**
+-   Pulling up information on installed applications —  **Applications**
+-   Viewing and installing available updates (if logged in as root) and restart the system if needed —  **Software Updates**
+-   Opening and using a terminal window —  **Terminal**
 
 # HowTO install Cockpit
 
@@ -145,5 +152,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTE5MzQ4NSwxNzA2MzMzOTkwXX0=
+eyJoaXN0b3J5IjpbLTExNzkxNjc2ODgsMTAyNTE5MzQ4NSwxNz
+A2MzMzOTkwXX0=
 -->
