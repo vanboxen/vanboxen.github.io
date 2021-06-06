@@ -5,7 +5,18 @@
     <link>https://vanboxen.github.io/tags/howto/</link>
     <description>Recent content in HowTO on blogd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Apr 2021 21:25:48 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 12:11:04 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HowTO Install Cockpit</title>
+      <link>https://vanboxen.github.io/posts/howto-install-cockpit/</link>
+      <pubDate>Sun, 06 Jun 2021 12:11:04 +0200</pubDate>
+      
+      <guid>https://vanboxen.github.io/posts/howto-install-cockpit/</guid>
+      <description>Cockpit is a web based interface that let you manage and monitor different devices.
+The installation process is super simple, you just need to install the packet on each device and then you can access with any account that you have.
+Main features  Monitoring system activity (CPU, memory, disk IO and network traffics) — System Viewing system log entries — Logs Seeing how full your disk partitions are — Storage Watching networking activity (sent and received) — Networking Taking a look at user accounts — Accounts Checking the status of system services — Services Pulling up information on installed applications — Applications Viewing and installing available updates (if logged in as root) and restart the system if needed — Software Updates Opening and using a terminal window — Terminal  HowTO install Cockpit I&amp;rsquo;m not really going to stop here because it&amp;rsquo;s as simple as doing the installation of the package so use your favorite package manager and do it.</description>
+    </item>
+    
     <item>
       <title>HowTO Install Netdata</title>
       <link>https://vanboxen.github.io/posts/howto-install-netdata/</link>

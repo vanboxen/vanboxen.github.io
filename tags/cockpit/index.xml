@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>monitoring on blogd</title>
-    <link>https://vanboxen.github.io/categories/monitoring/</link>
-    <description>Recent content in monitoring on blogd</description>
+    <title>cockpit on blogd</title>
+    <link>https://vanboxen.github.io/tags/cockpit/</link>
+    <description>Recent content in cockpit on blogd</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Jun 2021 12:11:04 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/categories/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 12:11:04 +0200</lastBuildDate><atom:link href="https://vanboxen.github.io/tags/cockpit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HowTO Install Cockpit</title>
       <link>https://vanboxen.github.io/posts/howto-install-cockpit/</link>
@@ -15,17 +15,6 @@
       <description>Cockpit is a web based interface that let you manage and monitor different devices.
 The installation process is super simple, you just need to install the packet on each device and then you can access with any account that you have.
 Main features  Monitoring system activity (CPU, memory, disk IO and network traffics) — System Viewing system log entries — Logs Seeing how full your disk partitions are — Storage Watching networking activity (sent and received) — Networking Taking a look at user accounts — Accounts Checking the status of system services — Services Pulling up information on installed applications — Applications Viewing and installing available updates (if logged in as root) and restart the system if needed — Software Updates Opening and using a terminal window — Terminal  HowTO install Cockpit I&amp;rsquo;m not really going to stop here because it&amp;rsquo;s as simple as doing the installation of the package so use your favorite package manager and do it.</description>
-    </item>
-    
-    <item>
-      <title>HowTO Install Netdata</title>
-      <link>https://vanboxen.github.io/posts/howto-install-netdata/</link>
-      <pubDate>Sun, 25 Apr 2021 21:25:48 +0200</pubDate>
-      
-      <guid>https://vanboxen.github.io/posts/howto-install-netdata/</guid>
-      <description>Let&amp;rsquo;s talk about Netdata.
-Netdata is a daemon which runs on your device(s) collecting data in real time. It has a very nice interface and it&amp;rsquo;s possible to see your devices from anywhere with Netdata Cloud (once you add your nodes into it).
-For monitoring there are a lot of tools which are great like Nagios, Icinga, Prometheus, etc but this one is really easy to install and use from home without doing a lot of stuff.</description>
     </item>
     
   </channel>
