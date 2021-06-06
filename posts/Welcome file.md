@@ -17,6 +17,12 @@ The installation process is super simple, you just need to install the packet on
 
 I'm not really going to stop here because it's as simple as doing the installation of the package so use your favorite package manager and do it.
 
+For example
+``` 
+zypper in cockpit
+```
+
+## Access Cockpit web interface
 
 ## Create files and folders
 
@@ -153,6 +159,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEyMDE5NDIsMTAyNTE5MzQ4NSwxNz
-A2MzMzOTkwXX0=
+eyJoaXN0b3J5IjpbNTIxOTg4NjUxLDEwMjUxOTM0ODUsMTcwNj
+MzMzk5MF19
 -->
