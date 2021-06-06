@@ -1,5 +1,6 @@
-Cockpit is a web based interface that let you manage and monitor  different devices
+Cockpit is a web based interface that let you manage and monitor  different devices.
 
+The installation process is super simple, you just need to install the packet on each device and then you can access with any account that you have.
 
 # Files
 
@@ -140,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODkyMTk1LDE3MDYzMzM5OTBdfQ==
+eyJoaXN0b3J5IjpbLTM2NTE0MjEwLDE3MDYzMzM5OTBdfQ==
 -->
