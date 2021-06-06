@@ -31,9 +31,9 @@ https://<system-name-or-IP>:9090
 
 You will get a prompt to insert user pass so use one of the accounts running on that device better a admin account so see all options. In any case, on top of the browser you will have the option to grant you admin rights inserting the password for root.
 
-At the top left (under your username) you can add more devices and then have a centralized dashboard with common graphs.
+At the top left (under your username) you can add more devices and then have a centralized dashboard with common graphs. Just remember to install the package on all of them.
 
-The interface is really intuitive and it exactly grants you access to what it says, logs, packages, even virtual machines are now handy!
+The interface is really intuitive and it exactly grants you access to what it says, logs, packages, even your own virtual machines are now handy!
 
 ## Create files and folders
 
@@ -170,7 +170,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg0MjY5ODksODc4Nzc2NzE1LC0xND
+eyJoaXN0b3J5IjpbLTE4MTE4MTU1NzcsODc4Nzc2NzE1LC0xND
 AxNDYyODc4LDUyMTk4ODY1MSwxMDI1MTkzNDg1LDE3MDYzMzM5
 OTBdfQ==
 -->
