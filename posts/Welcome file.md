@@ -15,7 +15,8 @@ The installation process is super simple, you just need to install the packet on
 
 # HowTO install Cockpit
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+I'm not really going to stop here because it's as simple as doing the installation of the package so use your favorite package manager and do it.
+
 
 ## Create files and folders
 
@@ -152,6 +153,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzkxNjc2ODgsMTAyNTE5MzQ4NSwxNz
+eyJoaXN0b3J5IjpbLTE0MzEyMDE5NDIsMTAyNTE5MzQ4NSwxNz
 A2MzMzOTkwXX0=
 -->
