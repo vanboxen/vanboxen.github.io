@@ -31,8 +31,7 @@ https://<system-name-or-IP>:9090
 
 You will get a prompt to insert user pass so use one of the accounts running on that device better a admin account so see all options. In any case, on top of the browser you will have the option to grant you admin rights inserting the password for root.
 
-At the top left
-Clicking at the top left, where your user name is displayed; will give you access to all the other devices (you will need to login if ssh key was not fconfigured) and to the dashboard. 
+At the top left (under your username) you can add more devices and then have a centralized dashboard with common graphs.
 
 The interface is really intuitive and it exactly grants you access to what it says, logs, packages, even virtual machines are now handy!
 
@@ -171,7 +170,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDIxMTYyOCw4Nzg3NzY3MTUsLTE0MD
-E0NjI4NzgsNTIxOTg4NjUxLDEwMjUxOTM0ODUsMTcwNjMzMzk5
-MF19
+eyJoaXN0b3J5IjpbLTE3OTg0MjY5ODksODc4Nzc2NzE1LC0xND
+AxNDYyODc4LDUyMTk4ODY1MSwxMDI1MTkzNDg1LDE3MDYzMzM5
+OTBdfQ==
 -->
