@@ -27,7 +27,9 @@ Browse to:
 https://<system-name-or-IP>:9090
 ```
 
-You will get a prompt to insert user pass so use one of the accounts running on that device (better a admin account so see all options).
+You will get a prompt to insert user pass so use one of the accounts running on that device better a admin account so see all options. In any case, on top of the browser you will have the option to grant you admin rights inserting the password for root.
+
+The interface is
 
 
 
@@ -166,6 +168,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE0NjI4NzgsNTIxOTg4NjUxLDEwMj
-UxOTM0ODUsMTcwNjMzMzk5MF19
+eyJoaXN0b3J5IjpbLTk3ODI2MTYxLC0xNDAxNDYyODc4LDUyMT
+k4ODY1MSwxMDI1MTkzNDg1LDE3MDYzMzM5OTBdfQ==
 -->
