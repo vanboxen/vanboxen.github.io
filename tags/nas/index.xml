@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NAS on blogd</title>
+    <link>https://vanboxen.github.io/tags/nas/</link>
+    <description>Recent content in NAS on blogd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Jul 2021 17:17:04 +0100</lastBuildDate><atom:link href="https://vanboxen.github.io/tags/nas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HowTO Configure Synology NAS</title>
+      <link>https://vanboxen.github.io/posts/howto-configure-synology-nas/</link>
+      <pubDate>Thu, 22 Jul 2021 17:17:04 +0100</pubDate>
+      
+      <guid>https://vanboxen.github.io/posts/howto-configure-synology-nas/</guid>
+      <description>Along with my OMV (OpenMediaVault) setup with a Raspberry Pi and a couple of SSD drives, I have a Synology NAS which really makes your life easier.
+Setup First of all, you need to put either a single 3.5&amp;quot; or 2.5&amp;quot; drive inside the Synology before starting it.
+After that, you can browse and search your NAS on find.synology.com or synologynas:5000. This will take a little bit until it finds your NAS and it will display a web page with some basic data about your new device and the status which is really important that says &amp;ldquo;Not Installed&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
